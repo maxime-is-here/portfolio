@@ -16,8 +16,12 @@ body {
 
 h1 {
 	font-size: 12vw;
+	text-align: center;
+	max-width: 25ch;
 }
 h2 {
 	text-align: center;
 	max-width: 25ch;
 } 
+
+a{ color: inherit;}
